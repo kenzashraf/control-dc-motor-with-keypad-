@@ -1,0 +1,23 @@
+this project is to control a dc motor with keypad , arduino uno and 2 relay 5 volt
+and them numbers in keypad is used to set timer for rotate dc motor a period of time 
+
+KEYS IN keypad control motor 
+A Rotate it in clock wise direction
+C Rotate it in anti clockwise direction
+
+
+ IF you press :
+
+1 the otor will rotate in clock wise direction the period is = (60000 milisec) 1 min
+and another buttons , and so on 
+
+if you holding in a 1 button it will be rotate in another direction (anticlock wise) and the period is = (60000) 1 min 
+and another buttons and so on 
+
+if this file is useful for anyone please pray for me 
+thank’s for your time 
+
+
+for any ques pleas contact me in whatspp with (01150293496)
+or mail (kenzashraf@yahoo.com )
+created by EL KENZ  
